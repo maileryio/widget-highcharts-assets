@@ -1,7 +1,7 @@
 {
-  "name": "@maileryio/_____",
+  "name": "@maileryio/widget-highcharts-assets",
   "version": "1.0.0",
-  "description": "_____",
+  "description": "Mailery Widget Highcharts Assets",
   "license": "BSD-3-Clause",
   "main": "dist/main.umd.js",
   "module": "dist/main.esm.js",
@@ -62,10 +62,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maileryio/_____.git"
+    "url": "git+https://github.com/maileryio/widget-highcharts-assets.git"
   },
   "bugs": {
-    "url": "https://github.com/maileryio/_____/issues"
+    "url": "https://github.com/maileryio/widget-highcharts-assets/issues"
   },
-  "homepage": "https://github.com/maileryio/_____#readme"
+  "homepage": "https://github.com/maileryio/widget-highcharts-assets#readme"
 }
